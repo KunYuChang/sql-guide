@@ -9,7 +9,7 @@
       "port": 3306,
       "driver": "MySQL",
       "name": "mysql",
-      "database": "online_shop",
+      "database": "sales_example",
       "username": "root",
       "password": "password"
     },
@@ -19,7 +19,7 @@
       "port": 5432,
       "driver": "PostgreSQL",
       "name": "pgsql",
-      "database": "online_shop",
+      "database": "sales_example",
       "username": "postgres",
       "password": "ROOT"
     }
